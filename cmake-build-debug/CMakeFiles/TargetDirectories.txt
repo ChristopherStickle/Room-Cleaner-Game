@@ -1,0 +1,3 @@
+C:/Users/stick/Documents/C Projects/CSC322/RoomCleaner/cmake-build-debug/CMakeFiles/RoomCleaner.dir
+C:/Users/stick/Documents/C Projects/CSC322/RoomCleaner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stick/Documents/C Projects/CSC322/RoomCleaner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
